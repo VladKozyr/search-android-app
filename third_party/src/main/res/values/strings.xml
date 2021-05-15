@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="search">Search…</string>
+    <string name="wait">Wait…</string>
+    <string name="retry">Retry</string>
+    <string name="something_goes_wrong">Something goes wrong…</string>
+</resources>
