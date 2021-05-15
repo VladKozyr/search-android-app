@@ -8,4 +8,4 @@ MVVM app for web searching with autocomplete field.
 * Pagination3
 
 ## Demo:
-![search-app-demo](search-app-demo.gif)
+<img src="search-app-demo.gif" width="216" height="468"/>
